@@ -1,5 +1,4 @@
-<iframe src="https://giphy.com/embed/KGd6ns7MR1gPCRT52z" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/ToeiAnimation-one-piece-luffy-otama-KGd6ns7MR1gPCRT52z">via GIPHY</a></p>
-
+![GIF](https://media.giphy.com/media/KGd6ns7MR1gPCRT52z/giphy.gif)
 <h1 align="center">Hi 👋, I'm Bishal Kumar Sardar</h1>
 <h3 align="center">Nothing much but love to code</h3>
 
