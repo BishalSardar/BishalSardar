@@ -1,4 +1,4 @@
-<img src="https://media.tenor.com/08nptNc_JT0AAAAd/one-piece-episode1001.gif" width="1920" height="250" object-fit="cover"/>
+<img src="https://media.tenor.com/DhRZ9HA6fbgAAAAC/monkey-d-luffy-luffy.gif" width="1920" height="100%" object-fit="cover"/>
 
 <h1 align="center">Hi 👋, I'm Bishal Kumar Sardar</h1>
 <h3 align="center">Nothing much but love to code</h3>
