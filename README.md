@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWEwMzd4ZGN6bTNmbnduNnNzbzJsa29rOGx1MG00c3Zmd2JlZTE5ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KGd6ns7MR1gPCRT52z/giphy.gif" width="1920" height="100%" object-fit="cover"/> 
+<!-- <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWEwMzd4ZGN6bTNmbnduNnNzbzJsa29rOGx1MG00c3Zmd2JlZTE5ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KGd6ns7MR1gPCRT52z/giphy.gif" width="1920" height="100%" object-fit="cover"/>  -->
 <h1 align="center">Hi 👋, I'm Bishal Kumar Sardar</h1>
 <h3 align="center">Nothing much but love to code</h3>
 
