@@ -6,11 +6,8 @@
 
 
 
-- 🔭 I’m currently working at **Nyxusbyte**
-
-- 🌱 I’m currently learning **Node.js**
-
-- 📫 How to reach me **bsalsrd5@gmail.com**
+# 💫 About Me:
+🔭 I’m currently working on NyxusByte Tech<br>👯 How to reach me bsalsrd5@gmail.com<br>🌱 I’m currently learning Dot net<br>💬 Ask me about Web Development
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
