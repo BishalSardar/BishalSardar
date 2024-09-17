@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Bishal Kumar Sardar</h1>
 <h3 align="center">Nothing much but love to code</h3>
 
-<img align="right" alt="coding" width="100" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
+<img align="right" alt="coding" width="500" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
 
 # 💫 About Me:
 🔭 I’m currently working on NyxusByte Tech<br>👯 How to reach me bsalsrd5@gmail.com<br>🌱 I’m currently learning Dot net<br>💬 Ask me about Web Development
