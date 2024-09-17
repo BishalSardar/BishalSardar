@@ -1,12 +1,8 @@
 <!-- <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWEwMzd4ZGN6bTNmbnduNnNzbzJsa29rOGx1MG00c3Zmd2JlZTE5ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KGd6ns7MR1gPCRT52z/giphy.gif" width="1920" height="100%" object-fit="cover"/> -->
 <h1 align="center">Hi 👋, I'm Bishal Kumar Sardar</h1>
 <h3 align="center">Nothing much but love to code</h3>
-<br>
-<br>
-<br>
+
 <img align="right" alt="coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
-
-
 
 # 💫 About Me:
 🔭 I’m currently working on NyxusByte Tech<br>👯 How to reach me bsalsrd5@gmail.com<br>🌱 I’m currently learning Dot net<br>💬 Ask me about Web Development
