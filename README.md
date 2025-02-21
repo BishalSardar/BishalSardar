@@ -6,7 +6,7 @@
 
 
 <h3 align="left">💫 About Me:</h3>
-🔭 I’m currently working on NyxusByte Tech<br>👯 How to reach me bsalsrd5@gmail.com<br>🌱 I’m currently learning Dot net<br>💬 Ask me about Web Development
+🔭 I’m currently working on The Root Level AI<br>👯 How to reach me bsalsrd5@gmail.com<br><br>💬 Ask me about Web Development
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
